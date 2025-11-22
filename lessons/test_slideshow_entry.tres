@@ -1,0 +1,7 @@
+[gd_resource type="Resource" script_class="SlideShowEntry" load_steps=2 format=3 uid="uid://jeuxgxqi50cr"]
+
+[ext_resource type="Script" uid="uid://ci0bnowe7sdmx" path="res://lessons/slideshow_entry.gd" id="1_qkxq3"]
+
+[resource]
+script = ExtResource("1_qkxq3")
+metadata/_custom_type_script = "uid://ci0bnowe7sdmx"
